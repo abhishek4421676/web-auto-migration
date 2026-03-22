@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Newsletter Vol 3 Issue 1 Final 3Fix",
+    "url": "https://dnbca6q7do6n.cloudfront.net/media/NewsLetters/Newsletter_vol_3_issue_1_Final_3Fix.pdf",
+    "sort_order": "1",
+    "image_alt_text": "Newsletter Vol 3 Issue 1 Final 3Fix",
+    "image": "/home/abhishek-reji/web_auto/assets/magazine_Newsletter_Vol_3_Issue_1_Final_3Fix.png",
+    "status": "1",
+    "description": ""
+  },
+  {
+    "title": "N3W Newsletter Vol 3 Issue 2 Dec22 ",
+    "url": "https://dnbca6q7do6n.cloudfront.net/media/NewsLetters/N3W_Newsletter_vol_3_issue_2_Dec22_.pdf",
+    "sort_order": "2",
+    "image_alt_text": "N3W Newsletter Vol 3 Issue 2 Dec22 ",
+    "image": "/home/abhishek-reji/web_auto/assets/magazine_N3W_Newsletter_Vol_3_Issue_2_Dec22_.png",
+    "status": "1",
+    "description": ""
+  },
+  {
+    "title": "N3W Newsletter Vol 4 Issue 1 June23 ",
+    "url": "https://dnbca6q7do6n.cloudfront.net/media/NewsLetters/N3W_Newsletter_vol_4_issue_1_june23_.pdf",
+    "sort_order": "3",
+    "image_alt_text": "N3W Newsletter Vol 4 Issue 1 June23 ",
+    "image": "/home/abhishek-reji/web_auto/assets/magazine_N3W_Newsletter_Vol_4_Issue_1_June23_.png",
+    "status": "1",
+    "description": ""
+  }
+]

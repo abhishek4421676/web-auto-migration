@@ -1,0 +1,1298 @@
+{
+  "page_url": "https://christ-college.dev6.intersmarthosting.in/admin-portal/departments/create",
+  "tabs": [],
+  "fields": [
+    {
+      "name": "banner_title",
+      "id": "banner_title",
+      "type": "text",
+      "label": "Title*",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "banner_alt_text",
+      "id": "banner_alt_text",
+      "type": "text",
+      "label": "Banner Alt Text",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "banner",
+      "id": "filepond--browser-vv967hpc1",
+      "type": "file",
+      "label": "Drag & Drop your files or Browse",
+      "required": true,
+      "placeholder": "",
+      "accept": "image/jpeg,image/png,image/jpg,image/webp",
+      "multiple": false
+    },
+    {
+      "name": "banner_mobile",
+      "id": "filepond--browser-glvnxukl3",
+      "type": "file",
+      "label": "Drag & Drop your files or Browse",
+      "required": true,
+      "placeholder": "",
+      "accept": "image/jpeg,image/png,image/jpg,image/webp",
+      "multiple": false
+    },
+    {
+      "name": "name",
+      "id": "name",
+      "type": "text",
+      "label": "Name *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "slug",
+      "id": "slug",
+      "type": "text",
+      "label": "Slug*",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "sort_order",
+      "id": "sort_order",
+      "type": "number",
+      "label": "Sort Order *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "about_tab_title",
+      "id": "about_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "about_title",
+      "id": "about_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "people_tab_title",
+      "id": "people_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "people_title",
+      "id": "people_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "curriculum_tab_title",
+      "id": "curriculum_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "curriculum_title",
+      "id": "curriculum_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "dab_tab_title",
+      "id": "dab_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "dab_title",
+      "id": "dab_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "pac_tab_title",
+      "id": "pac_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "pac_title",
+      "id": "pac_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "stream_committees_tab_title",
+      "id": "stream_committees_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "stream_committees_title",
+      "id": "stream_committees_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "innovative_tab_title",
+      "id": "innovative_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "innovative_title",
+      "id": "innovative_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "professional_bodies_tab_title",
+      "id": "professional_bodies_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "professional_bodies_title",
+      "id": "professional_bodies_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "association_tab_title",
+      "id": "association_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "association_title",
+      "id": "association_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "research_tab_title",
+      "id": "research_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "research_title",
+      "id": "research_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "laboratories_tab_title",
+      "id": "laboratories_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "laboratories_title",
+      "id": "laboratories_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "achievements_tab_title",
+      "id": "achievements_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "achievements_title",
+      "id": "achievements_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "co_curricular_tab_title",
+      "id": "co_curricular_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "co_curricular_title",
+      "id": "co_curricular_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "extra_curricular_tab_title",
+      "id": "extra_curricular_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "extra_curricular_title",
+      "id": "extra_curricular_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "activity_points_tab_title",
+      "id": "activity_points_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "activity_points_title",
+      "id": "activity_points_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "activity_points_pdf",
+      "id": "filepond--browser-fmbh19v8w",
+      "type": "file",
+      "label": "Drag & Drop your files or Browse",
+      "required": false,
+      "placeholder": "",
+      "accept": "application/pdf",
+      "multiple": false
+    },
+    {
+      "name": "activity_points_pdf_name",
+      "id": "activity_points_pdf_name",
+      "type": "text",
+      "label": "Pdf Name",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "mooc_tab_title",
+      "id": "mooc_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "mooc_title",
+      "id": "mooc_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "social_activity_tab_title",
+      "id": "social_activity_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "social_activity_title",
+      "id": "social_activity_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "placements_tab_title",
+      "id": "placements_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "placements_title",
+      "id": "placements_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "holistic_events_tab_title",
+      "id": "holistic_events_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "holistic_events_title",
+      "id": "holistic_events_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "products_developed_tab_title",
+      "id": "products_developed_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "products_developed_title",
+      "id": "products_developed_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "e_content_tab_title",
+      "id": "e_content_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "e_content_title",
+      "id": "e_content_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "fdp_tab_title",
+      "id": "fdp_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "fdp_title",
+      "id": "fdp_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "newsletter_magazine_tab_title",
+      "id": "newsletter_magazine_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "newsletter_magazine_title",
+      "id": "newsletter_magazine_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "clubs_tab_title",
+      "id": "clubs_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "clubs_title",
+      "id": "clubs_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "gallery_tab_title",
+      "id": "gallery_tab_title",
+      "type": "text",
+      "label": "Tab Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "gallery_title",
+      "id": "gallery_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "connect_title",
+      "id": "connect_title",
+      "type": "text",
+      "label": "Connect Title *",
+      "required": true,
+      "placeholder": ""
+    },
+    {
+      "name": "hod_name",
+      "id": "hod_name",
+      "type": "text",
+      "label": "Hod Name",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "hod_email",
+      "id": "hod_email",
+      "type": "email",
+      "label": "Hod Email",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "hod_phone",
+      "id": "hod_phone",
+      "type": "tel",
+      "label": "Hod Phone",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "staff_name",
+      "id": "staff_name",
+      "type": "text",
+      "label": "Staff Name",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "staff_email",
+      "id": "staff_email",
+      "type": "email",
+      "label": "Staff Email",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "staff_phone",
+      "id": "staff_phone",
+      "type": "tel",
+      "label": "Staff Phone",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "meta_title",
+      "id": "meta_title",
+      "type": "text",
+      "label": "Title",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "meta_keywords[]",
+      "id": "meta_keywords",
+      "type": "text",
+      "label": "Keywords",
+      "required": false,
+      "placeholder": ""
+    },
+    {
+      "name": "search_terms",
+      "id": "",
+      "type": "search",
+      "label": "Keywords",
+      "required": false,
+      "placeholder": "Enter relevant keywords"
+    },
+    {
+      "name": "about_description",
+      "id": "about_description",
+      "type": "textarea",
+      "label": "Description",
+      "required": false
+    },
+    {
+      "name": "dab_description",
+      "id": "dab_description",
+      "type": "textarea",
+      "label": "Description",
+      "required": false
+    },
+    {
+      "name": "pac_description",
+      "id": "pac_description",
+      "type": "textarea",
+      "label": "Description",
+      "required": false
+    },
+    {
+      "name": "laboratories_description",
+      "id": "laboratories_description",
+      "type": "textarea",
+      "label": "Description",
+      "required": false
+    },
+    {
+      "name": "activity_points_description",
+      "id": "activity_points_description",
+      "type": "textarea",
+      "label": "Description",
+      "required": false
+    },
+    {
+      "name": "",
+      "id": "",
+      "type": "textarea",
+      "label": "Magazines",
+      "required": false
+    },
+    {
+      "name": "connect_description",
+      "id": "connect_description",
+      "type": "textarea",
+      "label": "Connect Description",
+      "required": false
+    },
+    {
+      "name": "hod_query_text",
+      "id": "hod_query_text",
+      "type": "textarea",
+      "label": "Hod Query Text",
+      "required": false
+    },
+    {
+      "name": "staff_query_text",
+      "id": "staff_query_text",
+      "type": "textarea",
+      "label": "Staff Query Text",
+      "required": false
+    },
+    {
+      "name": "meta_description",
+      "id": "meta_description",
+      "type": "textarea",
+      "label": "Description",
+      "required": false
+    },
+    {
+      "name": "other_meta_tags",
+      "id": "other_meta_tags",
+      "type": "textarea",
+      "label": "Other Meta Tags",
+      "required": false
+    },
+    {
+      "name": "status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "about_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "people_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "curriculum_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "dab_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "pac_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "stream_committees_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "innovative_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "professional_bodies_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "association_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "research_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "laboratories_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "achievements_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "co_curricular_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "extra_curricular_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "activity_points_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "mooc_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "social_activity_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "placements_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "holistic_events_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "products_developed_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "e_content_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "fdp_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "assigned_magazines[]",
+      "id": "assigned_magazines",
+      "type": "select",
+      "label": "Magazines",
+      "required": false,
+      "options": [
+        {
+          "value": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "name": "newsletter_magazine_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "clubs_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "gallery_status",
+      "id": "",
+      "type": "select",
+      "label": "Status *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "show_connect",
+      "id": "",
+      "type": "select",
+      "label": "Show Connect *",
+      "required": true,
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "about_description",
+      "id": "about_description_ifr",
+      "type": "rich_text_editor",
+      "label": "Description",
+      "required": false,
+      "editor_type": "iframe"
+    },
+    {
+      "name": "dab_description",
+      "id": "dab_description_ifr",
+      "type": "rich_text_editor",
+      "label": "Description",
+      "required": false,
+      "editor_type": "iframe"
+    },
+    {
+      "name": "pac_description",
+      "id": "pac_description_ifr",
+      "type": "rich_text_editor",
+      "label": "Description",
+      "required": false,
+      "editor_type": "iframe"
+    },
+    {
+      "name": "laboratories_description",
+      "id": "laboratories_description_ifr",
+      "type": "rich_text_editor",
+      "label": "Description",
+      "required": false,
+      "editor_type": "iframe"
+    },
+    {
+      "name": "activity_points_description",
+      "id": "activity_points_description_ifr",
+      "type": "rich_text_editor",
+      "label": "Description",
+      "required": false,
+      "editor_type": "iframe"
+    },
+    {
+      "name": "layout",
+      "id": "layout-vertical",
+      "type": "radio",
+      "label": "Other Meta Tags",
+      "value": "vertical",
+      "required": false
+    },
+    {
+      "name": "layout",
+      "id": "layout-horizontal",
+      "type": "radio",
+      "label": "",
+      "value": "horizontal",
+      "required": false
+    },
+    {
+      "name": "layout-mode",
+      "id": "layout-mode-light",
+      "type": "radio",
+      "label": "",
+      "value": "light",
+      "required": false
+    },
+    {
+      "name": "layout-mode",
+      "id": "layout-mode-dark",
+      "type": "radio",
+      "label": "",
+      "value": "dark",
+      "required": false
+    },
+    {
+      "name": "layout-width",
+      "id": "layout-width-fuild",
+      "type": "radio",
+      "label": "",
+      "value": "fuild",
+      "required": false
+    },
+    {
+      "name": "layout-width",
+      "id": "layout-width-boxed",
+      "type": "radio",
+      "label": "",
+      "value": "boxed",
+      "required": false
+    },
+    {
+      "name": "layout-position",
+      "id": "layout-position-fixed",
+      "type": "radio",
+      "label": "",
+      "value": "fixed",
+      "required": false
+    },
+    {
+      "name": "layout-position",
+      "id": "layout-position-scrollable",
+      "type": "radio",
+      "label": "",
+      "value": "scrollable",
+      "required": false
+    },
+    {
+      "name": "topbar-color",
+      "id": "topbar-color-light",
+      "type": "radio",
+      "label": "",
+      "value": "light",
+      "required": false
+    },
+    {
+      "name": "topbar-color",
+      "id": "topbar-color-dark",
+      "type": "radio",
+      "label": "",
+      "value": "dark",
+      "required": false
+    },
+    {
+      "name": "sidebar-size",
+      "id": "sidebar-size-default",
+      "type": "radio",
+      "label": "",
+      "value": "default",
+      "required": false
+    },
+    {
+      "name": "sidebar-size",
+      "id": "sidebar-size-compact",
+      "type": "radio",
+      "label": "",
+      "value": "compact",
+      "required": false
+    },
+    {
+      "name": "sidebar-size",
+      "id": "sidebar-size-small",
+      "type": "radio",
+      "label": "",
+      "value": "small",
+      "required": false
+    },
+    {
+      "name": "sidebar-color",
+      "id": "sidebar-color-light",
+      "type": "radio",
+      "label": "",
+      "value": "light",
+      "required": false
+    },
+    {
+      "name": "sidebar-color",
+      "id": "sidebar-color-dark",
+      "type": "radio",
+      "label": "",
+      "value": "dark",
+      "required": false
+    },
+    {
+      "name": "sidebar-color",
+      "id": "sidebar-color-brand",
+      "type": "radio",
+      "label": "",
+      "value": "brand",
+      "required": false
+    },
+    {
+      "name": "layout-direction",
+      "id": "layout-direction-ltr",
+      "type": "radio",
+      "label": "",
+      "value": "ltr",
+      "required": false
+    },
+    {
+      "name": "layout-direction",
+      "id": "layout-direction-rtl",
+      "type": "radio",
+      "label": "",
+      "value": "rtl",
+      "required": false
+    }
+  ],
+  "total_fields": 131
+}

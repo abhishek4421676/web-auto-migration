@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+scraped_data.json
+scrape_plan_raw.txt
+assets/

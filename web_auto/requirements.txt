@@ -1,0 +1,6 @@
+selenium
+aiohttp
+beautifulsoup4
+google-generativeai
+python-dotenv
+requests

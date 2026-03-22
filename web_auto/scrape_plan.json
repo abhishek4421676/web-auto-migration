@@ -1,0 +1,1134 @@
+{
+  "fields": [
+    {
+      "cms_field_name": "banner_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "Electrical and Electronics Engineering",
+      "download_url": null,
+      "transform": "none",
+      "value": "Electrical and Electronics Engineering"
+    },
+    {
+      "cms_field_name": "banner_alt_text",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "static_value",
+      "selector_or_value": "Department of Electrical and Electronics Engineering",
+      "download_url": null,
+      "transform": "none",
+      "value": "Department of Electrical and Electronics Engineering"
+    },
+    {
+      "cms_field_name": "banner",
+      "cms_field_type": "file",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "image_download",
+      "selector_or_value": "https://dnbca6q7do6n.cloudfront.net/media/DEP_Heros_Images/Slide_ee.jpg",
+      "download_url": "https://dnbca6q7do6n.cloudfront.net/media/DEP_Heros_Images/Slide_ee.jpg",
+      "transform": "none",
+      "value": null
+    },
+    {
+      "cms_field_name": "banner_mobile",
+      "cms_field_type": "file",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "image_download",
+      "selector_or_value": "https://dnbca6q7do6n.cloudfront.net/media/DEP_Heros_Images/Slide_ee.jpg",
+      "download_url": "https://dnbca6q7do6n.cloudfront.net/media/DEP_Heros_Images/Slide_ee.jpg",
+      "transform": "none",
+      "value": null
+    },
+    {
+      "cms_field_name": "name",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "static_value",
+      "selector_or_value": "Electrical and Electronics Engineering",
+      "download_url": null,
+      "transform": "none",
+      "value": "Electrical and Electronics Engineering"
+    },
+    {
+      "cms_field_name": "slug",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "eee",
+      "download_url": null,
+      "transform": "none",
+      "value": "eee"
+    },
+    {
+      "cms_field_name": "sort_order",
+      "cms_field_type": "number",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "about_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "About",
+      "download_url": null,
+      "transform": "none",
+      "value": "About"
+    },
+    {
+      "cms_field_name": "about_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "static_value",
+      "selector_or_value": "About Electrical and Electronics Engineering",
+      "download_url": null,
+      "transform": "none",
+      "value": "About Electrical and Electronics Engineering"
+    },
+    {
+      "cms_field_name": "people_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "People",
+      "download_url": null,
+      "transform": "none",
+      "value": "People"
+    },
+    {
+      "cms_field_name": "people_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "static_value",
+      "selector_or_value": "Our People",
+      "download_url": null,
+      "transform": "none",
+      "value": "Our People"
+    },
+    {
+      "cms_field_name": "curriculum_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Curriculum",
+      "download_url": null,
+      "transform": "none",
+      "value": "Curriculum"
+    },
+    {
+      "cms_field_name": "curriculum_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "static_value",
+      "selector_or_value": "Curriculum & Syllabus",
+      "download_url": null,
+      "transform": "none",
+      "value": "Curriculum & Syllabus"
+    },
+    {
+      "cms_field_name": "dab_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "DAB",
+      "download_url": null,
+      "transform": "none",
+      "value": "DAB"
+    },
+    {
+      "cms_field_name": "dab_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/DAB",
+      "extraction_method": "static_value",
+      "selector_or_value": "Department Advisory Board",
+      "download_url": null,
+      "transform": "none",
+      "value": "Department Advisory Board"
+    },
+    {
+      "cms_field_name": "pac_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "PAC",
+      "download_url": null,
+      "transform": "none",
+      "value": "PAC"
+    },
+    {
+      "cms_field_name": "pac_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/PAC",
+      "extraction_method": "static_value",
+      "selector_or_value": "Program Assessment Committee",
+      "download_url": null,
+      "transform": "none",
+      "value": "Program Assessment Committee"
+    },
+    {
+      "cms_field_name": "stream_committees_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Stream Committees",
+      "download_url": null,
+      "transform": "none",
+      "value": "Stream Committees"
+    },
+    {
+      "cms_field_name": "stream_committees_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/StreamCommittee",
+      "extraction_method": "static_value",
+      "selector_or_value": "Stream Committees",
+      "download_url": null,
+      "transform": "none",
+      "value": "Stream Committees"
+    },
+    {
+      "cms_field_name": "innovative_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Innovative",
+      "download_url": null,
+      "transform": "none",
+      "value": "Innovative"
+    },
+    {
+      "cms_field_name": "innovative_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/innovative_tlm",
+      "extraction_method": "static_value",
+      "selector_or_value": "Innovative Teaching Learning Methodologies",
+      "download_url": null,
+      "transform": "none",
+      "value": "Innovative Teaching Learning Methodologies"
+    },
+    {
+      "cms_field_name": "professional_bodies_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Professional Bodies",
+      "download_url": null,
+      "transform": "none",
+      "value": "Professional Bodies"
+    },
+    {
+      "cms_field_name": "professional_bodies_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/professionalBodies",
+      "extraction_method": "static_value",
+      "selector_or_value": "Professional Bodies",
+      "download_url": null,
+      "transform": "none",
+      "value": "Professional Bodies"
+    },
+    {
+      "cms_field_name": "association_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Associations",
+      "download_url": null,
+      "transform": "none",
+      "value": "Associations"
+    },
+    {
+      "cms_field_name": "association_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/associations",
+      "extraction_method": "static_value",
+      "selector_or_value": "Associations",
+      "download_url": null,
+      "transform": "none",
+      "value": "Associations"
+    },
+    {
+      "cms_field_name": "research_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Research",
+      "download_url": null,
+      "transform": "none",
+      "value": "Research"
+    },
+    {
+      "cms_field_name": "research_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/research",
+      "extraction_method": "static_value",
+      "selector_or_value": "Research & Consultancy",
+      "download_url": null,
+      "transform": "none",
+      "value": "Research & Consultancy"
+    },
+    {
+      "cms_field_name": "laboratories_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Laboratories",
+      "download_url": null,
+      "transform": "none",
+      "value": "Laboratories"
+    },
+    {
+      "cms_field_name": "laboratories_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/labs",
+      "extraction_method": "static_value",
+      "selector_or_value": "Laboratories",
+      "download_url": null,
+      "transform": "none",
+      "value": "Laboratories"
+    },
+    {
+      "cms_field_name": "achievements_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Achievements",
+      "download_url": null,
+      "transform": "none",
+      "value": "Achievements"
+    },
+    {
+      "cms_field_name": "achievements_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/achievements",
+      "extraction_method": "static_value",
+      "selector_or_value": "Achievements",
+      "download_url": null,
+      "transform": "none",
+      "value": "Achievements"
+    },
+    {
+      "cms_field_name": "co_curricular_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Co Curricular",
+      "download_url": null,
+      "transform": "none",
+      "value": "Co Curricular"
+    },
+    {
+      "cms_field_name": "co_curricular_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/events",
+      "extraction_method": "static_value",
+      "selector_or_value": "Co Curricular Events",
+      "download_url": null,
+      "transform": "none",
+      "value": "Co Curricular Events"
+    },
+    {
+      "cms_field_name": "extra_curricular_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Extra Curricular",
+      "download_url": null,
+      "transform": "none",
+      "value": "Extra Curricular"
+    },
+    {
+      "cms_field_name": "extra_curricular_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/extra_curricular_events",
+      "extraction_method": "static_value",
+      "selector_or_value": "Extra Curricular Events",
+      "download_url": null,
+      "transform": "none",
+      "value": "Extra Curricular Events"
+    },
+    {
+      "cms_field_name": "activity_points_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Activity Points",
+      "download_url": null,
+      "transform": "none",
+      "value": "Activity Points"
+    },
+    {
+      "cms_field_name": "activity_points_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/activity_point",
+      "extraction_method": "static_value",
+      "selector_or_value": "Activity Points",
+      "download_url": null,
+      "transform": "none",
+      "value": "Activity Points"
+    },
+    {
+      "cms_field_name": "activity_points_pdf",
+      "cms_field_type": "file",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "",
+      "download_url": null,
+      "transform": "none",
+      "value": ""
+    },
+    {
+      "cms_field_name": "activity_points_pdf_name",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "",
+      "download_url": null,
+      "transform": "none",
+      "value": ""
+    },
+    {
+      "cms_field_name": "mooc_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "MOOC",
+      "download_url": null,
+      "transform": "none",
+      "value": "MOOC"
+    },
+    {
+      "cms_field_name": "mooc_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/mooc_courses",
+      "extraction_method": "static_value",
+      "selector_or_value": "MOOC Courses",
+      "download_url": null,
+      "transform": "none",
+      "value": "MOOC Courses"
+    },
+    {
+      "cms_field_name": "social_activity_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Social Activities",
+      "download_url": null,
+      "transform": "none",
+      "value": "Social Activities"
+    },
+    {
+      "cms_field_name": "social_activity_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/social_activities",
+      "extraction_method": "static_value",
+      "selector_or_value": "Social Activities",
+      "download_url": null,
+      "transform": "none",
+      "value": "Social Activities"
+    },
+    {
+      "cms_field_name": "placements_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Placements",
+      "download_url": null,
+      "transform": "none",
+      "value": "Placements"
+    },
+    {
+      "cms_field_name": "placements_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/placements",
+      "extraction_method": "static_value",
+      "selector_or_value": "Placements / Higher Studies",
+      "download_url": null,
+      "transform": "none",
+      "value": "Placements / Higher Studies"
+    },
+    {
+      "cms_field_name": "holistic_events_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Holistic Events",
+      "download_url": null,
+      "transform": "none",
+      "value": "Holistic Events"
+    },
+    {
+      "cms_field_name": "holistic_events_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/holistics",
+      "extraction_method": "static_value",
+      "selector_or_value": "Holistic Events",
+      "download_url": null,
+      "transform": "none",
+      "value": "Holistic Events"
+    },
+    {
+      "cms_field_name": "products_developed_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Products",
+      "download_url": null,
+      "transform": "none",
+      "value": "Products"
+    },
+    {
+      "cms_field_name": "products_developed_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/products",
+      "extraction_method": "static_value",
+      "selector_or_value": "Products Developed",
+      "download_url": null,
+      "transform": "none",
+      "value": "Products Developed"
+    },
+    {
+      "cms_field_name": "e_content_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "E-Content",
+      "download_url": null,
+      "transform": "none",
+      "value": "E-Content"
+    },
+    {
+      "cms_field_name": "e_content_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/e-content",
+      "extraction_method": "static_value",
+      "selector_or_value": "E-Content",
+      "download_url": null,
+      "transform": "none",
+      "value": "E-Content"
+    },
+    {
+      "cms_field_name": "fdp_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "FDP/STTP",
+      "download_url": null,
+      "transform": "none",
+      "value": "FDP/STTP"
+    },
+    {
+      "cms_field_name": "fdp_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/fdps",
+      "extraction_method": "static_value",
+      "selector_or_value": "FDP/STTP",
+      "download_url": null,
+      "transform": "none",
+      "value": "FDP/STTP"
+    },
+    {
+      "cms_field_name": "newsletter_magazine_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Newsletters",
+      "download_url": null,
+      "transform": "none",
+      "value": "Newsletters"
+    },
+    {
+      "cms_field_name": "newsletter_magazine_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/newsletters",
+      "extraction_method": "static_value",
+      "selector_or_value": "Newsletters & Magazines",
+      "download_url": null,
+      "transform": "none",
+      "value": "Newsletters & Magazines"
+    },
+    {
+      "cms_field_name": "clubs_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Clubs",
+      "download_url": null,
+      "transform": "none",
+      "value": "Clubs"
+    },
+    {
+      "cms_field_name": "clubs_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE/clubs",
+      "extraction_method": "static_value",
+      "selector_or_value": "Clubs",
+      "download_url": null,
+      "transform": "none",
+      "value": "Clubs"
+    },
+    {
+      "cms_field_name": "gallery_tab_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Gallery",
+      "download_url": null,
+      "transform": "none",
+      "value": "Gallery"
+    },
+    {
+      "cms_field_name": "gallery_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "static_value",
+      "selector_or_value": "Gallery",
+      "download_url": null,
+      "transform": "none",
+      "value": "Gallery"
+    },
+    {
+      "cms_field_name": "connect_title",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "static_value",
+      "selector_or_value": "Contact us",
+      "download_url": null,
+      "transform": "none",
+      "value": "Contact us"
+    },
+    {
+      "cms_field_name": "hod_name",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "Dr Needhu Varghese",
+      "download_url": null,
+      "transform": "none",
+      "value": "Dr Needhu Varghese"
+    },
+    {
+      "cms_field_name": "hod_email",
+      "cms_field_type": "email",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "needhuvarghese@cce.edu.in",
+      "download_url": null,
+      "transform": "none",
+      "value": "needhuvarghese@cce.edu.in"
+    },
+    {
+      "cms_field_name": "hod_phone",
+      "cms_field_type": "tel",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "+91 9497317677",
+      "download_url": null,
+      "transform": "none",
+      "value": "+91 9497317677"
+    },
+    {
+      "cms_field_name": "staff_name",
+      "cms_field_type": "text",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "Dr Ravishankar A N",
+      "download_url": null,
+      "transform": "none",
+      "value": "Dr Ravishankar A N"
+    },
+    {
+      "cms_field_name": "staff_email",
+      "cms_field_type": "email",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "ravishankaran@cce.edu.in",
+      "download_url": null,
+      "transform": "none",
+      "value": "ravishankaran@cce.edu.in"
+    },
+    {
+      "cms_field_name": "staff_phone",
+      "cms_field_type": "tel",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "+91 9400336647",
+      "download_url": null,
+      "transform": "none",
+      "value": "+91 9400336647"
+    },
+    {
+      "cms_field_name": "meta_title",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "EEE Department | Christ College of Engineering",
+      "download_url": null,
+      "transform": "none",
+      "value": "EEE Department | Christ College of Engineering"
+    },
+    {
+      "cms_field_name": "meta_keywords[]",
+      "cms_field_type": "text",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "EEE, Electrical Engineering, Electronics, Christ College, Irinjalakuda",
+      "download_url": null,
+      "transform": "none",
+      "value": "EEE, Electrical Engineering, Electronics, Christ College, Irinjalakuda"
+    },
+    {
+      "cms_field_name": "search_terms",
+      "cms_field_type": "search",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Electrical Engineering Christ College",
+      "download_url": null,
+      "transform": "none",
+      "value": "Electrical Engineering Christ College"
+    },
+    {
+      "cms_field_name": "about_description",
+      "cms_field_type": "textarea",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "The Department of Electrical and Electronics Engineering (EEE)...discipline.",
+      "download_url": null,
+      "transform": "strip",
+      "value": "The Department of Electrical and Electronics Engineering (EEE) of Christ College of Engineering was established in the year 2015, with excellent teaching-learning infrastructure. The department offers B. Tech Under graduate Program in Electrical and Electronics Engineering and is affiliated to A P J Abdul Kalam Technological University (KTU), Thiruvananthapuram. The AICTE sanctioned intake is 60 students/year. The goal of the department is to mould the students to become professionally competent engineers of high technical and managerial skills in the field of Electrical and Electronics Engineering."
+    },
+    {
+      "cms_field_name": "dab_description",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Information regarding the Department Advisory Board.",
+      "download_url": null,
+      "transform": "none",
+      "value": "Information regarding the Department Advisory Board."
+    },
+    {
+      "cms_field_name": "pac_description",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Information regarding the Program Assessment Committee.",
+      "download_url": null,
+      "transform": "none",
+      "value": "Information regarding the Program Assessment Committee."
+    },
+    {
+      "cms_field_name": "laboratories_description",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "State of the art laboratory facilities for hands-on technical training.",
+      "download_url": null,
+      "transform": "none",
+      "value": "State of the art laboratory facilities for hands-on technical training."
+    },
+    {
+      "cms_field_name": "activity_points_description",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "KTU Activity points tracking and guidelines.",
+      "download_url": null,
+      "transform": "none",
+      "value": "KTU Activity points tracking and guidelines."
+    },
+    {
+      "cms_field_name": "",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "",
+      "download_url": null,
+      "transform": "none",
+      "value": ""
+    },
+    {
+      "cms_field_name": "connect_description",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "For all doubts, queries regarding the department, contact our Head Of Department or staff.",
+      "download_url": null,
+      "transform": "none",
+      "value": "For all doubts, queries regarding the department, contact our Head Of Department or staff."
+    },
+    {
+      "cms_field_name": "hod_query_text",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Contact HOD for academic queries.",
+      "download_url": null,
+      "transform": "none",
+      "value": "Contact HOD for academic queries."
+    },
+    {
+      "cms_field_name": "staff_query_text",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "Contact staff for general department queries.",
+      "download_url": null,
+      "transform": "none",
+      "value": "Contact staff for general department queries."
+    },
+    {
+      "cms_field_name": "meta_description",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "The Department of Electrical and Electronics Engineering at Christ College of Engineering.",
+      "download_url": null,
+      "transform": "none",
+      "value": "The Department of Electrical and Electronics Engineering at Christ College of Engineering."
+    },
+    {
+      "cms_field_name": "other_meta_tags",
+      "cms_field_type": "textarea",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "",
+      "download_url": null,
+      "transform": "none",
+      "value": ""
+    },
+    {
+      "cms_field_name": "status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "about_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "people_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "curriculum_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "dab_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "pac_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "stream_committees_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "innovative_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "professional_bodies_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "association_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "research_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "laboratories_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "achievements_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "co_curricular_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "extra_curricular_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "activity_points_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "mooc_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "social_activity_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "placements_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "holistic_events_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "products_developed_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "e_content_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "fdp_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "assigned_magazines[]",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "",
+      "download_url": null,
+      "transform": "none",
+      "value": ""
+    },
+    {
+      "cms_field_name": "newsletter_magazine_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "clubs_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "gallery_status",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "show_connect",
+      "cms_field_type": "select",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "1",
+      "download_url": null,
+      "transform": "none",
+      "value": "1"
+    },
+    {
+      "cms_field_name": "about_description",
+      "cms_field_type": "rich_text_editor",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "The Department of Electrical and Electronics Engineering (EEE)...discipline.",
+      "download_url": null,
+      "transform": "keep_html",
+      "value": "<p>The Department of Electrical and Electronics Engineering (EEE) of Christ College of Engineering was established in the year 2015, with excellent teaching-learning infrastructure. The department offers B. Tech Under graduate Program in Electrical and Electronics Engineering and is affiliated to A P J Abdul Kalam Technological University (KTU), Thiruvananthapuram. The AICTE sanctioned intake is 60 students/year. The goal of the department is to mould the students to become professionally competent engineers of high technical and managerial skills in the field of Electrical and Electronics Engineering. The teaching-learning environment is aligned to achieve this goal which helps the students to attain employment in reputed industries and admission for higher studies in premier institutions across the world. In addition to the curriculum provided by the University, students are exposed to projects, seminars, industrial visits, Academy Lecture by Industry Professionals (ALIP), professional body activities, etc., to provide comprehensive improvement in technical and managerial capabilities. Today, Electrical Engineering has a wide reach in all spheres of technology and has given rise to new varieties of opportunities like design and application of Solar Photo-Voltaic cells, Fuel Cells, Wind Energy Conversion Turbines, etc. To support the students in learning these new technologies, Value Added Courses are provided to students in the above-mentioned areas to make them capable of handling the changes in technologies. Thus, the EEE department at Christ College of Engineering prepares each student for grabbing bright careers in this constantly evolving discipline.</p><h2>Vision</h2><p>To excel in fostering competent Electrical and Electronics Engineering professionals with sound knowledge and practical skills for social upliftment.</p><h2>Mission</h2><ol><li>To impart the excitement of modern technology and problem-solving skill among students through the development of an inspiring teaching-learning environment.</li><li>To mould the young minds to provide cost-effective, innovative and sustainable solutions, for the challenges faced by the society, through fundamental research and training.</li><li>To develop ethical values, leadership skills and lifelong learning practices that leads the students to become responsible citizens.</li></ol><h2>Academic Uniqueness</h2><ul><li>Industry Oriented, Project based Value Added Courses</li><li>MoU with Hykon India Pvt. Ltd., Thrissur for Collaborating in Electric Vehicle Projects</li><li>Professional Body Activities under the banner of IEEE and IEI.</li><li>Project based Learning in Laboratories</li><li>Technical and Non-technical student lead activities under the banner of BETA (EEE Students Association)</li><li>Remedial Classes for Academic Improvement</li><li>Personal Mentoring</li></ul>"
+    },
+    {
+      "cms_field_name": "dab_description",
+      "cms_field_type": "rich_text_editor",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "",
+      "download_url": null,
+      "transform": "keep_html",
+      "value": "<h2>Department Advisory Board (DAB)</h2><p>Content regarding the DAB members and their roles in guiding the department's strategic decisions.</p>"
+    },
+    {
+      "cms_field_name": "pac_description",
+      "cms_field_type": "rich_text_editor",
+      "source_url": "https://cce.edu.in/department/EEE",
+      "extraction_method": "text_match",
+      "selector_or_value": "Program Outcomes (POs)",
+      "download_url": null,
+      "transform": "keep_html",
+      "value": "<h2>Program Outcomes (POs)</h2><ul><li><strong>PO-1 Engineering Knowledge:</strong> Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.</li><li><strong>PO-2 Problem analysis:</strong> Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.</li><li><strong>PO-3 Design/development of solutions:</strong> Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.</li><li><strong>PO-12 Life-long learning:</strong> Recognize the need for, and have the preparation and ability to engage in independent and lifelong learning in the broadest context of technological change.</li></ul>"
+    },
+    {
+      "cms_field_name": "laboratories_description",
+      "cms_field_type": "rich_text_editor",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "",
+      "download_url": null,
+      "transform": "keep_html",
+      "value": "<h2>Laboratories</h2><p>The EEE department is equipped with modern laboratories to provide practical exposure in fields like electrical machines, power electronics, and control systems.</p>"
+    },
+    {
+      "cms_field_name": "activity_points_description",
+      "cms_field_type": "rich_text_editor",
+      "source_url": null,
+      "extraction_method": "static_value",
+      "selector_or_value": "",
+      "download_url": null,
+      "transform": "keep_html",
+      "value": "<h2>KTU Activity Points</h2><p>Guidelines for earning and maintaining KTU activity points through co-curricular and extra-curricular participation.</p>"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "page_type": "magazine",
+  "total_fields": 7,
+  "fields": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "type": "url"
+    },
+    {
+      "name": "sort_order",
+      "type": "number"
+    },
+    {
+      "name": "image_alt_text",
+      "type": "text"
+    },
+    {
+      "name": "image",
+      "type": "file"
+    },
+    {
+      "name": "status",
+      "type": "select",
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    },
+    {
+      "name": "description",
+      "type": "textarea",
+      "id": "description"
+    }
+  ]
+}

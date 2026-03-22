@@ -1,0 +1,40 @@
+{
+  "page_type": "faculty",
+  "total_fields": 6,
+  "fields": [
+    {
+      "name": "name",
+      "type": "text"
+    },
+    {
+      "name": "designation",
+      "type": "text"
+    },
+    {
+      "name": "sort_order",
+      "type": "number"
+    },
+    {
+      "name": "image_alt_text",
+      "type": "text"
+    },
+    {
+      "name": "image",
+      "type": "file"
+    },
+    {
+      "name": "status",
+      "type": "select",
+      "options": [
+        {
+          "value": "1",
+          "text": "Enabled"
+        },
+        {
+          "value": "0",
+          "text": "Disabled"
+        }
+      ]
+    }
+  ]
+}
