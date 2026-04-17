@@ -51,6 +51,10 @@ This project automates the migration of department data from a source college we
   ```sh
   python main.py EEE cocurricular
   ```
+- Run only department extra-curricular events automation:
+  ```sh
+  python main.py EEE extracurricular
+  ```
 - To scrape and structure department data only:
   ```sh
   python scraper.py
@@ -60,6 +64,10 @@ This project automates the migration of department data from a source college we
 ## Co-curricular Events Automation
 - Added `web_auto/cocurricular_events_flow.py`.
 - It opens the chosen department edit page in CMS, navigates to **Department Cocurricular Events**, scrapes source events from `SOURCE_URL/events`, and auto-creates missing event entries.
+
+## Extra-curricular Events Automation
+- Added `web_auto/extracurricular_events_flow.py`.
+- It opens the chosen department edit page in CMS, navigates to **Department Extra Curricular Events**, scrapes source events from `SOURCE_URL/extra_curricular_events`, and auto-creates missing event entries.
 
 ## Security
 - All sensitive information is stored in `.env` and excluded from version control.

@@ -8,3 +8,7 @@ cocurricular_progress.json
 cocurricular_skipped_events.txt
 cocurricular_auto_failures.json
 cocurricular_stop.txt
+extracurricular_progress.json
+extracurricular_skipped_events.txt
+extracurricular_auto_failures.json
+extracurricular_stop.txt
